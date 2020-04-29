@@ -1,0 +1,11 @@
+js标准内所有的特殊对象
+- Array
+- Date
+- RegExp
+- Function
+- Math
+- Global
+- 基本包装类型
+    - Boolean
+    - String
+    - Number
